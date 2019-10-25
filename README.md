@@ -1,7 +1,7 @@
 # TextScrapper
 Scraps keywords from articles and finds patterns within them.
 
-# Use virtualenv to create a new env
+Use virtualenv to create a new env
 python3 -m pip install --user virtualenv
 python3 -m venv OctEnv
 source OctEnv/bin/activate
